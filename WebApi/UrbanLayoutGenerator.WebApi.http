@@ -1,0 +1,6 @@
+@UrbanLayoutGenerator.WebApi_HostAddress = http://localhost:5218
+
+GET {{UrbanLayoutGenerator.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECk3BBCHezw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ярослав\\Desktop\\AetherActual\\Console\\UrbanLayoutGenerator.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ярослав\\.nuget\\packages\\geojson.net\\1.4.1\\geojson.net.1.4.1.nupkg.sha512",
+    "C:\\Users\\Ярослав\\.nuget\\packages\\nettopologysuite\\2.5.0\\nettopologysuite.2.5.0.nupkg.sha512",
+    "C:\\Users\\Ярослав\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Ярослав\\.nuget\\packages\\pdfpig\\0.1.12\\pdfpig.0.1.12.nupkg.sha512",
+    "C:\\Users\\Ярослав\\.nuget\\packages\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512",
+    "C:\\Users\\Ярослав\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

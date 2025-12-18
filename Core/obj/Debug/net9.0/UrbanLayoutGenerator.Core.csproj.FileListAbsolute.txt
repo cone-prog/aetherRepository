@@ -1,0 +1,12 @@
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.csproj.AssemblyReference.cache
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.AssemblyInfoInputs.cache
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.AssemblyInfo.cs
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\Desktop\AetherActual\Core\bin\Debug\net9.0\UrbanLayoutGenerator.Core.deps.json
+C:\Users\Ярослав\Desktop\AetherActual\Core\bin\Debug\net9.0\UrbanLayoutGenerator.Core.dll
+C:\Users\Ярослав\Desktop\AetherActual\Core\bin\Debug\net9.0\UrbanLayoutGenerator.Core.pdb
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.dll
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\refint\UrbanLayoutGenerator.Core.dll
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.pdb
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\ref\UrbanLayoutGenerator.Core.dll
