@@ -1,6 +1,7 @@
 using UrbanLayoutGenerator.Configuration;
 using UrbanLayoutGenerator.Core.Services;
 using UrbanLayoutGenerator.Services;
+using UrbanLayoutGenerator.WebApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,10 @@ builder.Services.AddScoped<PdfProcessor>();
 builder.Services.AddScoped<AdvancedSvgParser>();
 builder.Services.AddScoped<PdfToSvgConverter>();
 builder.Services.AddScoped<GeoJsonExporter>();
+
+builder.Services.AddSingleton<IProcessingStorage, ProcessingStorage>();
+
+builder.Services.AddLogging();
 
 var app = builder.Build();
 

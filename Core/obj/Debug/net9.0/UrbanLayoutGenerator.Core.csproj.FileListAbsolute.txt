@@ -10,3 +10,4 @@ C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGe
 C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\refint\UrbanLayoutGenerator.Core.dll
 C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.pdb
 C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\ref\UrbanLayoutGenerator.Core.dll
+C:\Users\Ярослав\Desktop\AetherActual\Core\obj\Debug\net9.0\UrbanLayoutGenerator.Core.sourcelink.json

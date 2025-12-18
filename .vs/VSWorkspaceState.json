@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Console",
+    "\\Core",
+    "\\Core\\Models",
+    "\\WebApi"
+  ],
+  "SelectedNode": "\\Core\\Models\\ElementType.cs",
+  "PreviewInSolutionExplorer": false
+}

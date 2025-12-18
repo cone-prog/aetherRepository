@@ -27,3 +27,4 @@ C:\Users\Ярослав\Desktop\AetherActual\Console\obj\Debug\net9.0\refint\Urb
 C:\Users\Ярослав\Desktop\AetherActual\Console\obj\Debug\net9.0\UrbanLayoutGenerator.Console.pdb
 C:\Users\Ярослав\Desktop\AetherActual\Console\obj\Debug\net9.0\UrbanLayoutGenerator.Console.genruntimeconfig.cache
 C:\Users\Ярослав\Desktop\AetherActual\Console\obj\Debug\net9.0\ref\UrbanLayoutGenerator.Console.dll
+C:\Users\Ярослав\Desktop\AetherActual\Console\obj\Debug\net9.0\UrbanLayoutGenerator.Console.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UrbanLayoutGenerator.WebApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0dd818fcab85894683b74fe709a05cfd10c32e66")]
 [assembly: System.Reflection.AssemblyProductAttribute("UrbanLayoutGenerator.WebApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UrbanLayoutGenerator.WebApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

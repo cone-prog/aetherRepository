@@ -1,0 +1,170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{479EB531-C616-4794-8B57-E5156C6D9E9A}|Core\\UrbanLayoutGenerator.Core.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\core\\configuration\\librarypassport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479EB531-C616-4794-8B57-E5156C6D9E9A}|Core\\UrbanLayoutGenerator.Core.csproj|solutionrelative:core\\configuration\\librarypassport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479EB531-C616-4794-8B57-E5156C6D9E9A}|Core\\UrbanLayoutGenerator.Core.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\core\\services\\pdftosvgconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479EB531-C616-4794-8B57-E5156C6D9E9A}|Core\\UrbanLayoutGenerator.Core.csproj|solutionrelative:core\\services\\pdftosvgconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9623C48-DDB1-496B-9B6D-369C2AFD421A}|Console\\UrbanLayoutGenerator.Console.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9623C48-DDB1-496B-9B6D-369C2AFD421A}|Console\\UrbanLayoutGenerator.Console.csproj|solutionrelative:console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961204E-FC41-4B74-8B27-07593A68404B}|WebApi\\UrbanLayoutGenerator.WebApi.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\webapi\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961204E-FC41-4B74-8B27-07593A68404B}|WebApi\\UrbanLayoutGenerator.WebApi.csproj|solutionrelative:webapi\\controllers\\pdfcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961204E-FC41-4B74-8B27-07593A68404B}|WebApi\\UrbanLayoutGenerator.WebApi.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\webapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7961204E-FC41-4B74-8B27-07593A68404B}|WebApi\\UrbanLayoutGenerator.WebApi.csproj|solutionrelative:webapi\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7961204E-FC41-4B74-8B27-07593A68404B}|WebApi\\UrbanLayoutGenerator.WebApi.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\webapi\\urbanlayoutgenerator.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7961204E-FC41-4B74-8B27-07593A68404B}|WebApi\\UrbanLayoutGenerator.WebApi.csproj|solutionrelative:webapi\\urbanlayoutgenerator.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{479EB531-C616-4794-8B57-E5156C6D9E9A}|Core\\UrbanLayoutGenerator.Core.csproj|c:\\users\\\u044F\u0440\u043E\u0441\u043B\u0430\u0432\\desktop\\aetheractual\\core\\services\\pdfprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{479EB531-C616-4794-8B57-E5156C6D9E9A}|Core\\UrbanLayoutGenerator.Core.csproj|solutionrelative:core\\services\\pdfprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Downloads\\aetherRepository-main (1)\\aetherRepository-main\\Services\\PdfToSvgConverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 189,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 152,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LibraryPassport.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Core\\Configuration\\LibraryPassport.cs",
+              "RelativeDocumentMoniker": "Core\\Configuration\\LibraryPassport.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Core\\Configuration\\LibraryPassport.cs",
+              "RelativeToolTip": "Core\\Configuration\\LibraryPassport.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAIwCoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:11:32.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PdfToSvgConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Core\\Services\\PdfToSvgConverter.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\PdfToSvgConverter.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Core\\Services\\PdfToSvgConverter.cs",
+              "RelativeToolTip": "Core\\Services\\PdfToSvgConverter.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:04:53.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Console\\Program.cs",
+              "RelativeDocumentMoniker": "Console\\Program.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Console\\Program.cs",
+              "RelativeToolTip": "Console\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:03:48.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\WebApi\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "WebApi\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\WebApi\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "WebApi\\Models\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T23:03:00.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PdfController.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\WebApi\\Controllers\\PdfController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\PdfController.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\WebApi\\Controllers\\PdfController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\PdfController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:36:55.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrbanLayoutGenerator.WebApi.http",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\WebApi\\UrbanLayoutGenerator.WebApi.http",
+              "RelativeDocumentMoniker": "WebApi\\UrbanLayoutGenerator.WebApi.http",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\WebApi\\UrbanLayoutGenerator.WebApi.http",
+              "RelativeToolTip": "WebApi\\UrbanLayoutGenerator.WebApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-12-18T22:36:35.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PdfProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Core\\Services\\PdfProcessor.cs",
+              "RelativeDocumentMoniker": "Core\\Services\\PdfProcessor.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Desktop\\AetherActual\\Core\\Services\\PdfProcessor.cs",
+              "RelativeToolTip": "Core\\Services\\PdfProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T22:01:40.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PdfToSvgConverter.cs",
+              "DocumentMoniker": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Downloads\\aetherRepository-main (1)\\aetherRepository-main\\Services\\PdfToSvgConverter.cs",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\aetherRepository-main (1)\\aetherRepository-main\\Services\\PdfToSvgConverter.cs",
+              "ToolTip": "C:\\Users\\\u042F\u0440\u043E\u0441\u043B\u0430\u0432\\Downloads\\aetherRepository-main (1)\\aetherRepository-main\\Services\\PdfToSvgConverter.cs",
+              "RelativeToolTip": "..\\..\\Downloads\\aetherRepository-main (1)\\aetherRepository-main\\Services\\PdfToSvgConverter.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAgwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T20:57:37.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
