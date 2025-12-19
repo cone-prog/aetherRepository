@@ -15,10 +15,10 @@ const FileProcessingPage = () => {
     {
       setIsUploading(true);
       const formData = new FormData();
-      formData.append('pdfFile', file);
+      formData.append('file', file);
 
       try {
-        await axios.post('http://localhost:5218/api/upload', formData);
+        const response = await axios.post('http://localhost:5218/api/Pdf/upload', formData);
         toast.success("Upload succesful!")
 
         const fileId = response.data.id;
@@ -39,7 +39,7 @@ const FileProcessingPage = () => {
   const downloadProcessedFile = async () => {
     try {
       
-      const response = await axios.get(`http://localhost:5218/api/download/${fileId}`);
+      const response = await axios.get(`http://localhost:5218/api/Pdf/result/${fileId}/passport`);
 
       const jsonString = JSON.stringify(response.data, null, 2);
 
