@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@plugin "daisyui" {
+   themes: winter --default
+ }
+
+
+@layer base {
+  @font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: optional;
+    src: url(/fonts/Montserrat.ttf) format("ttf");
+  }
+}
+
+@theme {
+  --font-display: "Montserrat", sans-serif; 
+}
